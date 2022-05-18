@@ -14,9 +14,6 @@ Thiago Daurizio
 - Hooks
 - Cosméticos exteriores como: Fontes do Google e Icones de sites.
 
-## LINK do desafio do Case passado:
-https://github.com/Promobit/front-end-challenge
-
 ## API utilizada:
 https://www.themoviedb.org/
 
